@@ -11,5 +11,6 @@ Carpeta Principal
 - Audios
 - Videos
 
-##_EJEMPLO_
+## _EJEMPLO_
+
 <img width="657" height="198" alt="image" src="https://github.com/user-attachments/assets/1cf14497-c971-4630-b36e-85505040630e" />
