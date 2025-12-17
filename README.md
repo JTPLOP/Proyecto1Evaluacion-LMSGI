@@ -5,8 +5,11 @@ Este es el repositorio donde vamos a ir organizando el contenido del proyecto.
 
 Comentario: En github no se esta subiendo las carpetas de Audio, video e imagen, la estructura del proyecto vamos a seguir la siguiente:
 Carpeta Principal
-  > HTML
-  > CSS
-  > Imagenes
-  > Audios
-  > Videos
+- HTML
+- CSS
+- Imagenes
+- Audios
+- Videos
+
+_EJEMPLO_
+<img width="657" height="198" alt="image" src="https://github.com/user-attachments/assets/1cf14497-c971-4630-b36e-85505040630e" />
